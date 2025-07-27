@@ -38,7 +38,7 @@ Termux Only
 4. Install git clone:
 
    ```sh
-   git clone https://github.com/MonnzHEXZ/Obfus-Comp/com.sh
+   git clone https://github.com/NoxMonnzReal/Obfus-Comp/main/com.sh
    ```
 
 5. Flash Com
