@@ -20,7 +20,7 @@ Termux Only
 
 1. Verify termux so you can access storage:
    ```sh
-   termux-setup-storage -y
+   termux-setup-storage
    ```
 
 2. Update and upgrade packages:
