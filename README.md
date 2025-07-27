@@ -2,7 +2,12 @@
 
 This is a simple program that focuses on script obfuscation and compiler and also script deobfuscation and uncompiler.
 
-## Supported Decryption:
+## More Information
+
+**Author:**
+[MonnzHEXZ](https://github.com/MonnzHEXZ)
+
+## Feature Menu:
 
 - Obfuscation
 - Compiler
@@ -46,8 +51,3 @@ Termux Only
    termux-obfus-comp
    ```
 
-
-## More Information
-
-**Author:**
-[MonnzHEXZ](https://github.com/MonnzHEXZ)
