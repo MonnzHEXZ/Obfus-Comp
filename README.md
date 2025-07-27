@@ -1,9 +1,53 @@
-# Obfus-Comp
-Termux tools for obfuscating and compiling bash scripts!!!
+# Obfus - Comp
 
-## list tools obfus-Comp
-Compiler File
+This is a simple program that focuses on script obfuscation and compiler and also script deobfuscation and uncompiler.
 
-Obfuscate File
+## Supported Decryption:
 
-# How to use it
+- Obfuscation
+- Compiler
+- DeObfuscation
+- UnCompiler
+
+## Usage:
+
+Termux Only
+
+1. Verify termux so you can access storage:
+   ```sh
+   termux-setup-storage -y
+   ```
+
+2. Update and upgrade packages:
+
+   ```sh
+   apt update -y && apt upgrade -y
+   ```
+
+3. Install git:
+
+   ```sh
+   apt install git -y
+   ```
+
+4. Install git clone:
+
+   ```sh
+   git clone https://github.com/MonnzHEXZ/Obfus-Comp/com.sh
+   ```
+
+5. Flash Com
+   ```sh
+   bash com.sh
+   ```
+
+6. Flash Obfus - Comp
+   ```sh
+   termux-obfus-comp
+   ```
+
+
+## More Information
+
+**Author:**
+[MonnzHEXZ](https://github.com/MonnzHEXZ)
